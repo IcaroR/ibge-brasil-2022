@@ -1,0 +1,10 @@
+pandas
+geopandas
+numpy
+ipykernel
+matplotlib
+mapclassify
+folium
+h3
+openpyxl
+IPython
